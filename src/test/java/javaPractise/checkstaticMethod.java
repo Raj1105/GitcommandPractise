@@ -26,5 +26,15 @@ public class checkstaticMethod {
 	public static void number5(int b) {
 		System.out.print("childbranch3 update in master branch");
 	}
+	public static void number6() {
+		System.out.print("cMasterbranchupdate1r branch");
+	}
+	public static void number7() {
+		System.out.print("cMasterbranchupdate2update in master branch");
+	}
+	public static void number8() {
+		System.out.print("cMasterbranchupdate3update in master branch");
+	}
+		
 
 }
