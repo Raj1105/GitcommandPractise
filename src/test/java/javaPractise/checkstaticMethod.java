@@ -35,6 +35,9 @@ public class checkstaticMethod {
 	public static void number8() {
 		System.out.print("cMasterbranchupdate3update in master branch");
 	}
+	public static void number9() {
+		System.out.print("Today 06 of march update in master branch");
+	}
 		
 
 }
