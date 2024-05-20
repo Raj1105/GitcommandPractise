@@ -9,32 +9,10 @@ public class checkstaticMethod {
 	}
 	//updating code in master branch
 	public void number(int a) {
-		System.out.print("Updating in master branch");
-		System.out.print("Updating23 in master branch");
-		System.out.print("Updating33 in master branch");
+		
 	}
 	
-	public static void number2(int b) {
-		System.out.print("childbranch update in master branch");
-	}
-	public static void number3(int b) {
-		System.out.print("childbranch1 update in master branch");
-	}
-	public static void number4(int b) {
-		System.out.print("childbranch2 update in master branch");
-	}
-	public static void number5(int b) {
-		System.out.print("childbranch3 update in master branch");
-	}
-	public static void number6() {
-		System.out.print("cMasterbranchupdate1r branch");
-	}
-	public static void number7() {
-		System.out.print("cMasterbranchupdate2update in master branch");
-	}
-	public static void number8() {
-		System.out.print("cMasterbranchupdate3update in master branch");
-	}
+	
 
 		
 
