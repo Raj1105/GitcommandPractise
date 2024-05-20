@@ -2,13 +2,21 @@ package javaPractise;
 
 public class checkstaticMethod {
 
+	
+static int m = 6;
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		m = 10;
+		number(m);
+		System.out.println(m);
+		
 	
 
 	}
 	//updating code in master branch
-	public void number(int a) {
+	public static  void number(int a) {
+		
+		m = 12;
+		System.out.println(m);
 		
 	}
 	
